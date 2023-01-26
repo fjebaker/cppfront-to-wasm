@@ -1,0 +1,6 @@
+lib
+wasi-sysroot
+*.tar.gz
+*.o
+*.wasm
+build
